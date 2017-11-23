@@ -24,7 +24,7 @@ For a detailed description of how concurrency handling works in Entity Framework
 
 ## Resolving concurrency conflicts
 
-Resolving a concurrency conflict involves using an algorithm to merge the pending changes from the current user with the changes made in the database. The merging approach will vary based on your application. A common approach is to display the values to the user and have them decide the correct values to be stored in the database.
+Resolving a concurrency conflict involves using an algorithm to merge the pending changes from the current user with the values in the database. The merging approach will vary based on your application. A common approach is to display the values to the user and have them decide the correct values to be stored in the database.
 
 **There are three sets of values available to help resolve a concurrency conflict.**
 
