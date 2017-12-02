@@ -76,7 +76,7 @@
 #### [Concurrency Conflicts](core/saving/concurrency.md)
 #### [Transactions](core/saving/transactions.md)
 #### [Asynchronous Saving](core/saving/async.md)
-#### [🔧 Disconnected Entities](core/saving/disconnected-entities.md)
+#### [Disconnected Entities](core/saving/disconnected-entities.md)
 #### [Explicit values for generated properties](core/saving/explicit-values-generated-properties.md)
 
 ### [Supported .NET Implementations](core/platforms/index.md)
@@ -95,6 +95,7 @@
 #### [Devart (MySQL, Oracle, PostgreSQL, SQLite, DB2, and more)](core/providers/devart/index.md)
 #### [Oracle (not yet available)](core/providers/oracle/index.md)
 #### [MyCat](core/providers/my-cat/index.md)
+#### [Firebird-Community](core/providers/firebird-community/index.md)
 #### [Writing a Database Provider](core/providers/writing-a-provider.md)
 
 ### [Managing Database Schemas](core/managing-schemas/index.md)
@@ -117,6 +118,7 @@
 #### [LLBLGen Pro](core/extensions/llbl-gen-pro.md)
 #### [Devart Entity Developer](core/extensions/devart-entity-developer.md)
 #### [EFSecondLevelCache.Core](core/extensions/efsecondlevelcache-core.md)
+#### [Geco (Reverse Model Generator)](core/extensions/geco.md)
 #### [EntityFrameworkCore.Detached](core/extensions/entityframeworkcore-detached.md)
 #### [EntityFrameworkCore.Triggers](core/extensions/entityframeworkcore-triggers.md)
 #### [EntityFrameworkCore.Rx](core/extensions/entityframeworkcore-rx.md)
